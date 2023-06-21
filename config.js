@@ -45,7 +45,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/zykomd'
+global.sig = 'https://instagram.com/rehand3_bb'
 global.sgh = 'https://github.com/ZykoBotz-MD'
 global.sgc = 'https://chat.whatsapp.com/EuRW5GTkIm7Got8ncaiI6X'
 global.sdc = 'https://www.discord.com'
@@ -54,13 +54,13 @@ global.sfb = 'https://www.facebook.com/ZykoBotz'
 global.syt = 'https://youtube.com/@zykobotz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852-1264-9276'
-global.povo = '0852-1264-9276'
-global.pgopay = '0852-1264-9276'
-global.plinkaja = '0852-1264-9276'
-global.ppulsa = '0852-1264-9276' 
-global.ppulsa2 = '0831-3332-9293'
-global.psaweria = 'https://saweria.co/Zykomd'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.plinkaja = '-'
+global.ppulsa = '-' 
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281269842230'
