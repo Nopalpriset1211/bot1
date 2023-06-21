@@ -63,10 +63,10 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281269842230'
-global.nomorown = '6283133329293'
-global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
+global.nomorbot = '19175121489'
+global.nomorown = '6283898839679'
+global.namebot = 'HannTod MD'
+global.nameown = 'Ownlolod'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'ZykoBotz-MD'
@@ -83,8 +83,8 @@ global.lolkey = pickRandom(["e54205a4ca2caa368cc067bb", "8e66d0934cf741bfd2182c1
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6283898839679', 'ZYKO MD', true],
+  ['6285805226913', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
